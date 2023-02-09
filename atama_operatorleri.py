@@ -29,7 +29,7 @@ Python'da değişkenlere veri ataması yaparken kullanırız.
 a = 2
 b = 3
 c = 4
-# print(a, b, c)
+print(a, b, c)
 
 # Üç değişkene tek satırda veri atayalım
 x, y, z = 5, 6, 7
@@ -52,7 +52,7 @@ x -= 10
 # Değişkenin içindeki değeri 5 ile çarpalım
 # x = x * 5
 x *= 5
-print(x)
+# print(x)
 
 # Değişkenin içindeki değeri 5'e bölelim
 
